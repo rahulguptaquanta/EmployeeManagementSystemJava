@@ -41,6 +41,3 @@ The program creates `employees.txt` in the current working directory when you sa
 5. Choose `7` to save data.
 6. Exit and run the program again to verify records load from `employees.txt`.
 7. Try entering a duplicate ID or invalid salary to test validation.
-
-## Note
-This is an educational console project. It does not use a database, login system, or payroll integrations.
